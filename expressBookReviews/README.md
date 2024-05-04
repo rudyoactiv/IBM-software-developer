@@ -1,6 +1,6 @@
 # Book Review Server-side Application
 
-<img width="963" alt="6-register" src="https://github.com/i-am-nolan25/Book-Review-Server-Side-Application/assets/113712250/45472404-c432-4748-ab9e-bc1420618ebd">
+<img width="963" alt="6-register" src="https://github.com/rudyoactiv/IBM-software-developer/assets/113712250/45472404-c432-4748-ab9e-bc1420618ebd">
 
 This repository contains a Book Review Server-side Application created as part of IBM's Developing Back-End Apps with Node.js and Express course. 
 
@@ -33,4 +33,4 @@ Clone or download the repository to your local machine and explore the codebase 
 
 ### Contact
 
-If you have any questions, please feel free to reach out via my [email](nl020@bucknell.edu) or [LinkedIn](https://www.linkedin.com/in/naing-oo-lwin-nolan/).
+If you have any questions, please feel free to reach out via my [email](its.rudraneel@gmail.com) or [LinkedIn](https://www.linkedin.com/in/its-rudraneel).
