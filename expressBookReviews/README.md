@@ -31,4 +31,4 @@ To begin, clone or download the repository to your local machine and delve into 
 
 ### Contact
 
-For any inquiries or assistance, please don't hesitate to contact me via [email](its.rudraneel@gmail.com) or [LinkedIn](https://www.linkedin.com/in/its-rudraneel).
+For any inquiries or assistance, please don't hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/its-rudraneel).
